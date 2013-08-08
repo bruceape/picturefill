@@ -3,7 +3,7 @@
 A Responsive Images approach that you can use today, that mimics the [proposed picture element](http://www.w3.org/community/respimg/wiki/Picture_Element_Proposal) using `div`s, for safety sake.
 
 * Author: Scott Jehl (c) 2012
-* License: MIT/GPLv2
+* License: MIT/GPLv3
 
 Demo URL: [http://scottjehl.github.com/picturefill/](http://scottjehl.github.com/picturefill/)
 
